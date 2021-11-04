@@ -1,6 +1,6 @@
 array=[1,2,3,4,5,6,7,8,9,0]
 visited=[0,0,0,0,0,0,0,0,0,0]
-size=3
+size=7
 ans=[]
 def combination():
     if len(ans)==size:
